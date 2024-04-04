@@ -1,3 +1,6 @@
-<div>
-    <!-- The whole future lies in uncertainty: live immediately. - Seneca -->
-</div>
+<x-layout>
+
+    <h1>create</h1>
+
+</x-layout>
+
